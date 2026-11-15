@@ -1,0 +1,28 @@
+# Núcleo
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyterlab
+pytest
+tqdm
+# ML clásico
+scikit-learn
+networkx
+sympy
+# Deep learning en Apple Silicon (backend MPS)
+torch
+torchvision
+# Framework nativo de Apple (memoria unificada)
+mlx
+mlx-lm
+# NLP / LLMs
+transformers
+datasets
+tokenizers
+sentence-transformers
+# RL
+gymnasium
+# Lógica difusa / Prolog (opcionales)
+scikit-fuzzy
